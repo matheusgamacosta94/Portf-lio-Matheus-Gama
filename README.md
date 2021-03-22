@@ -27,6 +27,7 @@
 ## Projetos:
 
 * **Discertação de Mestrado:** https://repositorio.ufsc.br/handle/123456789/216110
+* **Detecção de mortes por insuficiência cardíaca.:** https://bityli.com/iJvK0
 
 
 ---
