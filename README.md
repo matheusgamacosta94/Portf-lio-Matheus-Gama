@@ -21,13 +21,14 @@
 **Links:**
 * [Lattes iD](http://lattes.cnpq.br/1515303396312578)
 * [LinkedIn](https://www.linkedin.com/in/matheus-gama-costa-903456a6)
+* [kaggle](https://www.kaggle.com/matheusgamacosta94)
 * [Medium](https://www.medium.com)
 
 
 ## Projetos:
 
 * **Discertação de Mestrado:** https://repositorio.ufsc.br/handle/123456789/216110
-* **Detecção de mortes por insuficiência cardíaca.:** https://www.kaggle.com/matheusgamacosta94/heart-failure-prediction
+* **Detecção de mortes por insuficiência cardíaca.:** https://bit.ly/31kpw9b
 
 
 ---
