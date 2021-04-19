@@ -27,7 +27,8 @@
 ## Projetos:
 
 * [**Discertação de Mestrado.**](https://repositorio.ufsc.br/handle/123456789/216110)
-* [**Detecção de mortes por insuficiência cardíaca.**](https://bit.ly/31kpw9b)
+* [**Detecção do câncer de mama.**](https://github.com/matheusgamacosta94/Portfolio_Matheus_Gama/blob/ac85b9e35ac34ac41b1ac7fd021908b2132ee373/Notebooks/Detec%C3%A7%C3%A3o_do_C%C3%A2ncer_de_Mama.ipynb)
+* [**Detecção de mortes por insuficiência cardíaca.**](https://github.com/matheusgamacosta94/Portfolio_Matheus_Gama/blob/ac85b9e35ac34ac41b1ac7fd021908b2132ee373/Notebooks/Heart_Failure_Prediction.ipynb)
 
 
 ---
