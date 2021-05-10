@@ -29,6 +29,6 @@
 * [**Discertação de Mestrado.**](https://repositorio.ufsc.br/handle/123456789/216110)
 * [**Detecção do câncer de mama.**](https://github.com/matheusgamacosta94/Portfolio_Matheus_Gama/blob/ac85b9e35ac34ac41b1ac7fd021908b2132ee373/Notebooks/Detec%C3%A7%C3%A3o_do_C%C3%A2ncer_de_Mama.ipynb)
 * [**Detecção de mortes por insuficiência cardíaca.**](https://github.com/matheusgamacosta94/Portfolio_Matheus_Gama/blob/ac85b9e35ac34ac41b1ac7fd021908b2132ee373/Notebooks/Heart_Failure_Prediction.ipynb)
-
+* [**Processamento sinal ECG derivações X, Y e Z.**](https://github.com/matheusgamacosta94/Portfolio_Matheus_Gama/blob/bcd70bdc8c7d8c50329b85a903c0f7be181123a2/Notebooks/Processamento%20de%20Sinais%20Biom%C3%A9dicos%20ECG%20XYZ.ipynb)
 
 ---
