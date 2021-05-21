@@ -20,7 +20,7 @@
 
 **Links:**
 * [Lattes iD](http://lattes.cnpq.br/1515303396312578)
-* [LinkedIn](https://www.linkedin.com/in/matheus-gama-costa-903456a6)
+* [LinkedIn](https://www.linkedin.com/in/matheus-gama-costa)
 * [kaggle](https://www.kaggle.com/matheusgamacosta94)
 
 
